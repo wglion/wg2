@@ -1,0 +1,1 @@
+1 JavaForOSX2014-001.dmg 这个是 1.6JDK ，spark_2_6_3.dmg 需要在jdk1.6的环境下才能运行；
